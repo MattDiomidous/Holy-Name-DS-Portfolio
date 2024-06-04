@@ -4,10 +4,10 @@ Welcome to my SQL Projects repository! From September 2023 to May 2024, I recent
 
 ## Table of Contents
 
-- [Average LOS](#Average LOS)
+- [Average LOS](#Average_LOS)
   - [Avg LOS SQL Code](#Average LOS/Average LOS (Split by Unit).docx)
   - [Avg LOS Excel Results](#Average LOS/Average LOS (Split by Unit).xlsx)
-- [PASES Report](#PASES Report)
+- [PASES Report](#PASES_Report)
   - [PASES SQL Code](#PASES Report/PASES SQL Query.docx)
   - [PASES Excel Results](#PASES Report/OR Elective Patients and PASES Form List.xlsx)
 - [POLST](#POLST)
