@@ -4,7 +4,7 @@ Welcome to my SQL Projects repository! From September 2023 to May 2024, I comple
 
 ## Table of Contents
 
-- [Average LOS](#average-los)
+- [Average LOS](average-los)
   - [Avg LOS SQL Code](Average%20LOS/Average%20LOS%20(Split%20by%20Unit).docx)
   - [Avg LOS Excel Results](Average%20LOS/Average%20LOS%20(Split%20by%20Unit).xlsx)
 - [PASES Report](#pases-report)
