@@ -10,6 +10,6 @@ Welcome to my SQL Projects repository! From September 2023 to May 2024, I comple
 - [PASES Report](pases-report)
   - [PASES SQL Code](PASES%20Report/PASES%20SQL%20Query.docx)
   - [PASES Excel Results](PASES%20Report/OR%20Elective%20Patients%20and%20PASES%20Form%20List.xlsx)
-- [POLST](polst)
+- [POLST](POLST)
   - [POLST SQL Code](POLST/POLST%20SQL%20Query.docx)
   - [POLST Excel Results](POLST/POLST%20List.xlsx)
