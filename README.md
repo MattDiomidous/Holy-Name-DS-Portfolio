@@ -1,11 +1,19 @@
 # SQL-Projects
 
-Welcome to my SQL Projects repository! This collection of projects showcases my skills and expertise in SQL, including database creation, data querying, performance optimization, and data analysis. From September 2023 to May 2024, I recently completed an internship as a part of Holy Name Medical Center's Data Science Team.
+Welcome to my SQL Projects repository! From September 2023 to May 2024, I recently completed an internship as a part of Holy Name Medical Center's Data Science Team. This repository contains a variety of SQL projects that I have worked on to demonstrate my capabilities in SQL programming and database management. Each project is organized into its own folder with its respective SQL Query and the results.
 
 ## Table of Contents
 
-- [Average LOS](#averagelos)
-  - [SQL Code](#database-creation)
-  - [Data Queries](#data-queries)
-- [PASES Report](#pasesreport)
-- [POLST](#polst)
+- [Average LOS](#Average LOS)
+  - [Avg LOS SQL Code](#Average LOS/Average LOS (Split by Unit).docx)
+  - [Avg LOS Excel Results](#Average LOS/Average LOS (Split by Unit).xlsx)
+- [PASES Report](#PASES Report)
+  - [PASES SQL Code](#PASES Report/PASES SQL Query.docx)
+  - [PASES Excel Results](#PASES Report/OR Elective Patients and PASES Form List.xlsx)
+- [POLST](#POLST)
+  - [POLST SQL Code](#POLST/POLST SQL Query.docx)
+  - [POLST Excel Results](#POLST/POLST List.xlsx)
+
+If you have any questions or suggestions, feel free to reach out to me:
+- Email: mattdiom@gmail.com
+- LinkedIn: https://www.linkedin.com/in/matthew-diomidous-b737a723a/
