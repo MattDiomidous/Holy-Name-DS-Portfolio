@@ -13,7 +13,3 @@ Welcome to my SQL Projects repository! From September 2023 to May 2024, I recent
 - [POLST](#POLST)
   - [POLST SQL Code](#POLST/POLST SQL Query.docx)
   - [POLST Excel Results](#POLST/POLST List.xlsx)
-
-If you have any questions or suggestions, feel free to reach out to me:
-- Email: mattdiom@gmail.com
-- LinkedIn: https://www.linkedin.com/in/matthew-diomidous-b737a723a/
