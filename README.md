@@ -4,7 +4,6 @@ Welcome to my SQL Projects repository! From September 2023 to May 2024, I comple
 
 ## Table of Contents
 
-- [Slideshow Presentation of my Internship]
 - [Average LOS](Average-LOS)
   - [Avg LOS SQL Code](Average-LOS/SQL-Code.pdf)
   - [Avg LOS Excel Results](Average%20LOS/Average%20LOS%20(Split%20by%20Unit).xlsx)
