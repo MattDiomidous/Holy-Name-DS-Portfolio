@@ -1,6 +1,6 @@
 # SQL-Projects
 
-Welcome to my SQL Projects repository! From September 2023 to May 2024, I completed an internship as part of Holy Name Medical Center's Data Science Team. This repository contains three of about ten SQL projects that I worked on to demonstrate my capabilities in SQL programming and database management. Each project is organized into its own folder with its respective SQL Query and the results.
+Welcome to my SQL Projects repository! From September 2023 to May 2024, I completed an internship as part of Holy Name Medical Center's Data Science Team. This repository contains three of about ten tasks that I worked on to demonstrate my capabilities in SQL programming and database management. Additionally, I included an image of the finalized Tableau dashboard that I developed for the POLST Project.
 
 ## Table of Contents
 
