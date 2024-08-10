@@ -6,10 +6,10 @@ Welcome to my SQL Projects repository! From September 2023 to May 2024, I comple
 
 - [Average LOS](Average-LOS)
   - [Avg LOS SQL Code](Average-LOS/SQL-Code.pdf)
-  - [Avg LOS Excel Results](Average%20LOS/Average%20LOS%20(Split%20by%20Unit).xlsx)
+  - [Avg LOS Excel Results](Average-LOS/AvgLOS-List.pdf)
 - [PASES Report](PASES-Report)
   - [PASES SQL Code](PASES-Report/PASES-Query.pdf)
-  - [PASES Excel Results](PASES%20Report/PASES-List.pdf)
+  - [PASES Excel Results](PASES-Report/PASES-List.pdf)
 - [POLST](POLST)
   - [POLST SQL Code](POLST/POLST-Query.pdf)
   - [POLST Excel Results](POLST/POLST-List.pdf)
