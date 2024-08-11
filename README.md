@@ -1,6 +1,6 @@
 # HNMC Portfolio - SQL Queries and Tableau Dashboards
 
-Welcome to my Holy Name Medical Center Portfolio! From September 2023 to June 2024, I completed an internship as part of Holy Name Medical Center's Data Science Team. This repository contains three of about ten tasks that I worked on to demonstrate my capabilities in SQL programming and database management. All SQL code was written and executed in Microsoft SQL Server. Additionally, I included an image of the finalized Tableau dashboard that I developed for the POLST Project. All queries and the dashboard were modified to ensure the privacy of all patient information.
+Welcome to my Holy Name Medical Center Portfolio! From September 2023 to June 2024, I completed an internship as part of Holy Name Medical Center's Data Science Team. This repository contains three of about ten tasks that I worked on to demonstrate my capabilities in SQL programming and database management. All SQL code was written and executed in Microsoft SQL Server. Additionally, I included an image of the finalized Tableau dashboard that I developed for the POLST Project. The queries and dashboard were modified to ensure the privacy of all patient information.
 
 ## Table of Contents
 
